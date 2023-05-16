@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">EManager</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="enter_former_password">Mật khẩu cũ</string>
+    <string name="enter_new_password">Mật khẩu mới</string>
+    <string name="enter_confirmation_password">Xác nhận mật khẩu mới</string>
+    <string name="action_register">Đăng ký Demo</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_register_long">Bạn chưa có tài khoản?</string>
+    <string name="welcome">Already Have an \nAccount?</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="search">Tìm kiếm …</string>
+    <string name="goback">Trở về</string>
+
+
+    <string name="student_table_title_infomation">Thông Tin</string>
+    <string name="student_table_title_action">Thao tác</string>
+    <string name="student_table_button_add">Thêm nhân viên </string>
+    <string name="student_table_button_edit">Sửa thông tin</string>
+    <string name="student_table_button_delete">Xóa khỏi danh sách</string>
+    <string name="student_creation">Xác Nhận</string>
+    <string name="familyName">Họ</string>
+    <string name="firstName">Tên</string>
+    <string name="fullName">Họ Tên</string>
+    <string name="gender">Giới Tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="teacherName">Mai Xuân Ngọc</string>
+    <string name="teacherClassroom">Quản lí IT</string>
+    <string name="teacherTitleList">Danh sách phòng ban</string>
+    <string name="familyNameHint">Gia Cát</string>
+    <string name="firstNameHint">Lượng</string>
+    <string name="avatar">Ảnh Đại Diện</string>
+    <string name="grade">Phòng ban</string>
+    <string name="gradeName">IT-01</string>
+    <string name="ourBirthday">01/05/2001</string>
+    <string name="OK">Đồng ý</string>
+    <string name="Save">Lưu</string>
+    <string name="Cancel">Hủy bỏ</string>
+    <string name="popupContent">This is a popup window.</string>
+    <string name="deleteEmployee">Bạn có chắc chắn muốn xóa?</string>
+    <string name="menuClassroom">Danh sách nhân viên</string>
+    <string name="menuSubject">Môn học</string>
+    <string name="menuEvent">Sự kiện</string>
+    <string name="menuStatistics">Thống kê</string>
+    <string name="menuSettings">Cài đặt</string>
+    <string name="signout">Đăng xuất</string>
+    <string name="menuAccount">Tài khoản</string>
+    <string name="darkMode">Chế độ ban đêm</string>
+    <string name="eventTextView">Bật/tắt danh sách sự kiện ở màn hình chính</string>
+    <string name="darkModeTextOn">Bật chế độ ban đêm</string>
+    <string name="darkModeTextOff">Tắt chế độ ban đêm</string>
+    <string name="eventTextOff">Tắt danh sách sự kiện ở màn hình chính</string>
+    <string name="eventTextOn">Bật danh sách sự kiện ở màn hình chính</string>
+    <string name="teacherId">Mã QL: 1</string>
+
+    <string name="ChangeAvatar">Đổi hình đại diện</string>
+    <string name="changePassword">Thay đổi mật khẩu</string>
+
+
+    <string name="title_score_subject">Quản lý điểm theo môn học</string>
+    <string name="title_score_student">Danh sách điểm học sinh</string>
+    <string name="score_subject_infomation">Danh sách môn học</string>
+    <string name="button_edit_score_student">Chỉnh sửa điểm</string>
+    <string name="button_export_score_student">Xuất danh sách điểm</string>
+    <string name="score_student_name">Nguyễn Văn A</string>
+    <string name="score_student_code">1</string>
+    <string name="score_student_score">1</string>
+    <string name="title_score_student_edit">Chỉnh sửa điểm sinh viên</string>
+    <string name="button_scoreave_student_save">Lưu</string>
+    <string name="tv_id_lable">Mã học sinh:</string>
+    <string name="tv_full_name_lable">Họ và tên:</string>
+    <string name="tv_score_lable">Điểm:</string>
+    <string name="tv_subject_lable">Môn học</string>
+    <string name="button_score_student_save_file_pdf">Lưu file pdf</string>
+
+
+    <string name="TitleEvent">Danh sách sự kiện</string>
+    <string name="nameEvent">Họp phòng ban</string>
+    <string name="place">Địa điểm: Phòng họp 1</string>
+    <string name="eventDateTime">07:00 a.m-11:00 a.m 22/03/2022</string>
+    <string name="EventTitleInformation">Thông tin sự kiện</string>
+    <string name="AddEvent">Thêm sự kiện</string>
+    <string name="ExportEvent">Xuất danh sách sự kiện</string>
+
+    <string name="PageAddEvent">Thêm sự kiện</string>
+    <string name="EventName">Tên sự kiện</string>
+    <string name="StartTime">Bắt đầu</string>
+    <string name="EndTime">Kết thúc</string>
+    <string name="Date">Ngày diễn ra</string>
+    <string name="Place">Địa điểm</string>
+    <string name="EVName">Event name</string>
+    <string name="EVstart">Start</string>
+    <string name="EVend">End</string>
+    <string name="EVdate">Date</string>
+    <string name="EVplace">Place</string>
+
+    <string name="PageUpdateEvent">Sửa thông tin sự kiện</string>
+
+</resources>
